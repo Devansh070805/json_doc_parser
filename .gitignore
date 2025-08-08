@@ -1,0 +1,5 @@
+hack-env/
+.env
+venv/
+backend/hack-env
+backend/ignore
