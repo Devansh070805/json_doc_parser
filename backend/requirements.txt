@@ -12,7 +12,7 @@ extract-msg
 validators
 filetype
 scikit-learn
-pinecone-client
+pinecone
 openai
 tiktoken
 numpy
